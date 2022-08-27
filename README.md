@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rudy Ryanto
-- 🌱 I’m currently learning Python and Data Streaming.
 - 📫 How to reach me [linkedIn](https://www.linkedin.com/in/rudy-ryanto-387458128/)
 
 <!---
