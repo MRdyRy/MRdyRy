@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
   <tr>
   <td>Versioning</td>
-  <td>GitHub, Gitlab, Bitbucket</td>
+  <td>GitHub, Gitlab, Bitbucket, Ansible</td>
 </tr>
   <tr>
   <td>Architecture</td>
