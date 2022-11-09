@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rudy Ryanto
 - 🛠 I'm Software Engineer
-- ⚡ I' currently learning phyton, kafka, machine learning.
+- ⚡ I'm currently learning phyton, kafka, machine learning.
 - 📫 How to reach me [linkedIn](https://www.linkedin.com/in/rudy-ryanto-387458128/)
 <!---
 MRdyRy/MRdyRy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
