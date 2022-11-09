@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Rudy Ryanto
 - 🛠 I'm Software Engineer
+- ⚡ I' currently learning phyton, kafka, machine learning.
 - 📫 How to reach me [linkedIn](https://www.linkedin.com/in/rudy-ryanto-387458128/)
 <!---
 MRdyRy/MRdyRy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ![Rudy Ryanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRdyRy&theme=default&show_icons=true) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRdyRy&layout=compact)](https://github.com/MRdyRy/github-readme-stats)
 
-- 🐱‍💻 Things I've learned
+- 🐱‍💻 Things that I've used and learned
 <table>
 <tr>
   <td>Languange</td>
@@ -28,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
   <tr>
   <td>WS</td>
-  <td>REST, SOAP, GRP</td>
+  <td>REST, SOAP, gRPC</td>
 </tr>
   <tr>
   <td>Virtualization</td>
@@ -57,5 +58,9 @@ You can click the Preview link to take a look at your changes.
   <tr>
   <td>Data Stream</td>
   <td>RedHat AMQ, Apache Kafka, MQTT</td>
+</tr>
+   <tr>
+  <td>CI/CD</td>
+  <td>Jenkins, Gitlab Runner</td>
 </tr>
 </table>
