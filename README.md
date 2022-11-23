@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
 <tr>
   <td>Testing</td>
-  <td>Mockito, JUnit, Cucumber, Postman</td>
+  <td>Mockito, JUnit, Cucumber, Postman, Microcks, Mocklabs</td>
 </tr>  
   <tr>
   <td>Monitoring</td>
