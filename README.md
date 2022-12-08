@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
   <tr>
   <td>Virtualization</td>
-  <td>Docker, OCP, Kubernetes, GCP</td>
+  <td>Docker, OCP, Kubernetes, GCP, Platform.sh</td>
 </tr>
 <tr>
   <td>Testing</td>
