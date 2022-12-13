@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Rudy Ryanto
 - 🛠 I'm Software Engineer
 - ⚡ I'm currently learning python, kafka, machine learning.
-- 📫 How to reach me [linkedIn](https://www.linkedin.com/in/rudy-ryanto-387458128/)
+- 📫 How to reach me :
+
+ <a href = "mailto:ryanserfanru@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rudy-ryanto-387458128/" target= "_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 <!---
 MRdyRy/MRdyRy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
