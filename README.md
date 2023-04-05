@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tr>
   <td>Language</td>
-  <td>Java, JavaScript, PHP, Python</td>
+  <td>Java, JavaScript, PHP, Python, GO</td>
 </tr>
   <tr>
   <td>Framework</td>
