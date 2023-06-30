@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rudy Ryanto
-- 🛠 I'm Software Engineer
+- 🛠 I'm Senior Software Engineer
 - ⚡ I'm currently learning go, python, kafka, machine learning.
 - 📫 How to reach me :
 
