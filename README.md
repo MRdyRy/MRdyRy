@@ -12,7 +12,7 @@ MRdyRy/MRdyRy is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdyry&show_icons=true&locale=en&layout=compact" alt="mrdyry" /><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdyry&show_icons=true&locale=en" alt="mrdyry" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdyry&show_icons=true&locale=en" alt="mrdyry" />-->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrdyry&" alt="mrdyry" />
 
 - 🐱‍💻 Things that I've used and learned
