@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
 </table>
 
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rudytoryan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rudytoryan" /></a></p><br><br>
