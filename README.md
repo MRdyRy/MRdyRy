@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
  <tr>
   <td>SQL</td>
-  <td>MySQL, PostgreSQL, IBM DB2</td>
+  <td>MySQL, PostgreSQL, IBM DB2, Oracle DB</td>
 </tr>
  <tr>
   <td>No-SQL</td>
