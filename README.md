@@ -69,6 +69,10 @@ You can click the Preview link to take a look at your changes.
   <td>CI/CD</td>
   <td>Jenkins, Gitlab Runner</td>
 </tr>
+ <tr>
+  <td>Pentest</td>
+  <td>Burpsuite</td>
+ </tr>
 </table>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
