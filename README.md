@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
   <tr>
   <td>Versioning</td>
-  <td>GitHub, Gitlab, Bitbucket, Ansible</td>
+  <td>GitHub, Gitlab, Bitbucket</td>
 </tr>
   <tr>
   <td>Architecture</td>
@@ -67,12 +67,16 @@ You can click the Preview link to take a look at your changes.
 </tr>
    <tr>
   <td>CI/CD</td>
-  <td>Jenkins, Gitlab Runner</td>
+  <td>Jenkins, Gitlab Runner, Github Action (CI) </td>
 </tr>
  <tr>
   <td>Pentest</td>
   <td>Burpsuite</td>
  </tr>
+<tr>
+ <td>Config</td>
+ <td>Ansible, Make</td>
+</tr>
 </table>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
