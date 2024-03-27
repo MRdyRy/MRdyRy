@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rudy Ryanto
 - 🛠 I'm Senior Software Engineer
-- ⚡ I'm currently learning go, python, kafka, machine learning.
+- ⚡ I'm currently learning go, python, machine learning.
+- 💡  Interest about streaming platform like RedPanda, Kafka, Apache Flink
 - 📫 How to reach me :
 
  <a href = "mailto:ryanserfanru@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
