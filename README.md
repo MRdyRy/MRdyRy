@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rudy Ryanto
 - 🛠 I'm Senior Software Engineer
-- ⚡ I'm currently learning go, python, machine learning.
+- ⚡ I'm currently learning rust, python, machine learning.
 - 💡  Interest about streaming platform like RedPanda, Kafka, Apache Flink
 - 📫 How to reach me :
 
